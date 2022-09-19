@@ -1,0 +1,30 @@
+body {
+    padding: 0px 100px;
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #993969);
+    margin-top: 5%;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(234, 115, 115);
+    color: aliceblue;
+    padding: 10px;
+    margin: 0px;
+}
+
+#text {
+    width: 99.3%;
+    height: 17rem;
+    border: 2px solid rgb(234, 115, 115);
+    font-size: 15px;
+}
+
+p {
+    text-align: center;
+    background-color: rgb(234, 115, 115);
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+    padding: 10px;
+    margin: 0px;
+}
